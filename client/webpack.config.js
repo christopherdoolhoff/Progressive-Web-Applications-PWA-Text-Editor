@@ -34,7 +34,7 @@ module.exports = () => {
         fingerprints: false,
         inject: true,
         name: 'J.A.T.E',
-        short_name: 'J.A.T.E',
+        short_name: 'jate',
         description: 'Edit your text',
         background_color: '#225ca3',
         theme_color: '#225ca3',
