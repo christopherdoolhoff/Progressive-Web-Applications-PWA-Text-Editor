@@ -6,7 +6,7 @@ This applicatioin is Progressive Web Application that allows the text editor to 
 
 ## Access to Application
 
-[Please click this link to get to the live application. ]( https://thawing-reef-45202.herokuapp.com/)
+[Please click this link to get to the live application. ](https://infinite-shore-00374.herokuapp.com/)
 
 ## Usage
 
